@@ -1,4 +1,9 @@
-# ethminer
+asia1.ethermine.org
+4444
+14444
+5555
+ https://www.etherchain.org/account/8B6c14D36bdae43fC490A7c963B30DC6dC77d078
+#etherminer
 
 [![standard-readme compliant](https://img.shields.io/badge/readme%20style-standard-brightgreen.svg)](https://github.com/RichardLitt/standard-readme)
 [![Gitter](https://img.shields.io/gitter/room/nwjs/nw.js.svg)][Gitter]
